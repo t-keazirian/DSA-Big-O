@@ -14,4 +14,4 @@ function doubleArrayValues(array) {
 	};
 }
 
-console.log(doubleArrayValues([1, 2, 3]));
+console.log(doubleArrayValues([1, 2, 3, 4, 5]));

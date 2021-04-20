@@ -10,4 +10,4 @@ function createPairs(arr) {
   }
 }
 
-console.log(createPairs([2,3, 5, 6, 8]));
+console.log(createPairs([5, 6, 8, 10, 12]));

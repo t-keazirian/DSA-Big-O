@@ -8,4 +8,4 @@ const factorFunction = (num) => {
   console.log(num);
 }
 
-console.log(factorFunction(10));
+console.log(factorFunction(5));
